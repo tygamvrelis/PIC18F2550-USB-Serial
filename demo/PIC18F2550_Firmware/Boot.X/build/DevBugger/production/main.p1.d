@@ -1,0 +1,21 @@
+ build/DevBugger/production/main.d  \
+ build/DevBugger/production/main.p1:  \
+ main.c  \
+../USBConverter/mla/v2017_03_06/framework/usb/inc/usb_common.h  \
+../../../src/UART/UART_PIC.h  \
+../USBConverter/LPC_FSUSB-CDC-X/main_cdc.h  \
+../USBConverter/LPC_FSUSB-CDC-X/system.h  \
+../USBConverter/mla/v2017_03_06/framework/usb/inc/usb_ch9.h  \
+../../../src/PIC18F2550/machineConfig.h  \
+../USBConverter/mla/v2017_03_06/framework/usb/inc/usb_hal_pic18.h  \
+../USBConverter/LPC_FSUSB-CDC-X/stdbool.h  \
+../USBConverter/mla/v2017_03_06/framework/usb/inc/usb_device.h  \
+../../../src/PIC18F2550/configBits.h  \
+../../../src/UART/../PIC18F2550/configBits.h  \
+../USBConverter/mla/v2017_03_06/framework/usb/inc/usb_device_cdc.h  \
+../USBConverter/LPC_FSUSB-CDC-X/../BSP-FILES/pdusb_2550.h  \
+../USBConverter/LPC_FSUSB-CDC-X/usb_config.h  \
+../USBConverter/mla/v2017_03_06/framework/usb/inc/usb_hal.h  \
+../USBConverter/mla/v2017_03_06/framework/usb/inc/app_device_cdc_to_uart.h  \
+../USBConverter/LPC_FSUSB-CDC-X/stdint.h  \
+../USBConverter/mla/v2017_03_06/framework/usb/inc/usb.h 

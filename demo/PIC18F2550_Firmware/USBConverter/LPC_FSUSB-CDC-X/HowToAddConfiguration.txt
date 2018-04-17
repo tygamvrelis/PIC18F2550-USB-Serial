@@ -1,0 +1,15 @@
+--------------------------------------------------------
+How to add a new configuration for your own board an PIC
+--------------------------------------------------------
+
+1. Create a new pair fo c/h files in the BSP folder (copy/rename)
+
+2. Create a new configuration via the project properties dialog (copy/rename)
+
+3. Check the include path settings for the compiler in the new configuration
+
+4. Adjust the files scope via the file properties dialog
+
+5. Add an include directive for your new header in system.h
+
+6. Edit/create the string descriptor in usb_descriptor.c

@@ -1,0 +1,6 @@
+Found and added required header to zip: ./stdbool.h
+Found and added required header to zip: ./stdint.h
+Found and added required header to zip: ./system.h
+Found and added required header to zip: ./system_config.h
+Found and added required header to zip: ./usb_config.h
+File not found: O:\LPC_FSUSB-CDC-X\BSP-FILES\lpcudk_16F145x.h
